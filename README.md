@@ -32,6 +32,6 @@
 ```
 
 
-```sh
+
 <img width="387" alt="image" src="https://github.com/3Artem99/C-Lab1/assets/113392103/2914a34d-01e3-4981-9215-706357cb3cff">
-```
+
